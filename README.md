@@ -19,7 +19,7 @@
 
 <div align="center">
   
-  [![My Skills]([https://skillicons.dev/icons?i=angular,vue,react,linux,js,ts,vscode](https://skillicons.dev/icons?i=vscode,html,css,bootstrap,js,jquery,react,python,django,mysql,postgresql,redis,docker,restful%20api)](https://skillicons.dev))](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=angular,vue,react,linux,js,ts,vscode](https://skillicons.dev/icons?i=vscode,html,css,bootstrap,js,jquery,react,python,django,mysql,postgresql,redis,docker,restful%20api)](https://skillicons.dev))](https://skillicons.dev)
   
 </div>
 
