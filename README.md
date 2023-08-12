@@ -27,16 +27,6 @@ ____    ____  __   _______ .___________.   .__   __.      ___      .___  ___.
   
 </div>
 
-<div align="center">
-  
-| Angular Library | License MIT |
-|:-------------:|:-------------:|
-| [![NPM](https://nodei.co/npm/ngx-shift-jis.png)](https://www.npmjs.com/package/ngx-shift-jis)      | [![NPM](https://nodei.co/npm/ngx-flexlayout.png)](https://www.npmjs.com/package/ngx-flexlayout)     |
-| [![NPM](https://nodei.co/npm/ngx-scanner-face.png)](https://www.npmjs.com/package/ngx-scanner-face)      | [![NPM](https://nodei.co/npm/ngx-scanner-text.png)](https://www.npmjs.com/package/ngx-scanner-text)     |
-| [![NPM](https://nodei.co/npm/ngx-print-element.png)](https://www.npmjs.com/package/ngx-print-element)      | [![NPM](https://nodei.co/npm/ngx-scanner-qrcode.png)](https://www.npmjs.com/package/ngx-scanner-qrcode)     |
-| [![NPM](https://nodei.co/npm/ngx-qrcode-styling.png)](https://www.npmjs.com/package/ngx-qrcode-styling)      | [![NPM](https://nodei.co/npm/ngx-scanner-face-mesh.png)](https://www.npmjs.com/package/ngx-scanner-face-mesh)     |
-
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=id1945" height="150" alt="stats graph"  />
