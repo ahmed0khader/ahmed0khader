@@ -17,11 +17,12 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="center">
-<h3>Front-end</h3>
-  [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,bootstrap,js,jquery,react,python,django,mysql,postgresql,redis,docker,restfulapi)](https://skillicons.dev)
-</div>
 
+<div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,bootstrap,js,jquery,react,python,django,mysql,postgresql,redis,docker,restfulapi)](https://skillicons.dev)
+  
+</div>
 <!-- <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
