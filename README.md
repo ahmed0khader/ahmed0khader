@@ -16,11 +16,17 @@
 
 
 
-<div align="center">
-<h3 align="">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
+<div align="">
+  <div align="left">
+    <h3>Front-end</h3>
+  [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,bootstrap,js,jquery,react)](https://skillicons.dev)
+  </div>
   
-  [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,bootstrap,js,jquery,react,python,django,mysql,postgresql,redis,docker,restful%20api)](https://skillicons.dev)
-  
+   <div align="rigth">
+     <h3>Back-end</h3>
+  [![My Skills](https://skillicons.dev/icons?i=python,django,mysql,postgresql,redis,docker,restfulapi)](https://skillicons.dev)
+  </div>
 </div>
 
 <!-- <p align="left"> 
