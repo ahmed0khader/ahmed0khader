@@ -3,6 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed0khader&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed0khader" /> </p>
 
+<p align="center">
+Hi there! I'm Ahmed Khader,
+a dedicated and experienced Full Stack Developer with a passion for crafting dynamic and user-friendly web applications.
+With a solid foundation in HTML, CSS, Bootstrap, JavaScript, jQuery, React.js, Python, Django, Restful API, Docker, PostgreSQL, Redis, and Database management (MySQL),
+I possess the skills necessary to bring your ideas to life.
+
+I have a diverse range of professional experience,
+including working on an image annotation project and implementing face recognition technology.
+These projects have sharpened my attention to detail, problem-solving abilities, and proficiency in handling complex tasks.
+
+</p>
 
 - 💬 Ask me about html, css, js, bootstrap, python, django
 
@@ -23,19 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed0khader&show_icons=true&locale=en&layout=compact" alt="ahmed0khader" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed0khader&show_icons=true&locale=en" alt="ahmed0khader" /></p>
-
-<p align="left">
-Hi there! I'm Ahmed Khader,
-a dedicated and experienced Full Stack Developer with a passion for crafting dynamic and user-friendly web applications.
-With a solid foundation in HTML, CSS, Bootstrap, JavaScript, jQuery, React.js, Python, Django, Restful API, Docker, PostgreSQL, Redis, and Database management (MySQL),
-I possess the skills necessary to bring your ideas to life.
-
-I have a diverse range of professional experience,
-including working on an image annotation project and implementing face recognition technology.
-These projects have sharpened my attention to detail, problem-solving abilities, and proficiency in handling complex tasks.
-
-</p>
-
-<hr>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed0khader" alt="ahmed0khader"/> </p>
