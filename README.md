@@ -27,7 +27,11 @@
 </td><td valign="top" width="33%">
 
 <!----Down redme-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed0khader&show_icons=true&locale=en&layout=compact" alt="ahmed0khader" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed0khader&show_icons=true&locale=en" alt="ahmed0khader" /></p>
+
+<p><img style="width: 30%;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed0khader&show_icons=true&locale=en&layout=compact" alt="ahmed0khader" /></p>
+
+<p>&nbsp;<img style="width: 30%;"  src="https://github-readme-stats.vercel.app/api?username=ahmed0khader&show_icons=true&locale=en" alt="ahmed0khader" /></p>
+
 <p><img style="width: 30%;" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed0khader&" alt="ahmed0khader" /></p>
+
 <!--->
