@@ -28,7 +28,7 @@
 
 <!----Down redme-->
 
-<p><img style="width: 30%;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed0khader&show_icons=true&locale=en&layout=compact" alt="ahmed0khader" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed0khader&show_icons=true&theme=radical)
 
 <p>&nbsp;<img style="width: 30%;"  src="https://github-readme-stats.vercel.app/api?username=ahmed0khader&show_icons=true&locale=en" alt="ahmed0khader" /></p>
 
